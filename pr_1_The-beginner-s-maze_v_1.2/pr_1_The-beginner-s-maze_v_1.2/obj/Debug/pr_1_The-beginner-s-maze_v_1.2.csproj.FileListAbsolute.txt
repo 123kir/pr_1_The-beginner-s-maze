@@ -1,0 +1,7 @@
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\bin\Debug\pr_1_The-beginner-s-maze_v_1.2.exe.config
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\bin\Debug\pr_1_The-beginner-s-maze_v_1.2.exe
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\bin\Debug\pr_1_The-beginner-s-maze_v_1.2.pdb
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\obj\Debug\pr_1_The-beginner-s-maze_v_1.2.csproj.AssemblyReference.cache
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\obj\Debug\pr_1_The-beginner-s-maze_v_1.2.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\obj\Debug\pr_1_The-beginner-s-maze_v_1.2.exe
+C:\Users\cakyr\Desktop\ещё ярлыки\4 курс\Konoplev\pr_1_labirint\git web\pr_1_The-beginner-s-maze_v_1.2\pr_1_The-beginner-s-maze_v_1.2\obj\Debug\pr_1_The-beginner-s-maze_v_1.2.pdb
